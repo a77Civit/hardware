@@ -5,7 +5,8 @@ MPU6050 使用IIC协议
 
 K66共有两个I2C模块 模块1的C10 C11已经杯其他部件使用了。
 
-
+Version Author:程旭帆
+Confirmed Date:2019年 1月3日
 /      模块通道    端口          可选范围              建议
 I2C0_SCL_PIN    PTD8        // PTB0、PTB2、PTD8
 I2C0_SDA_PIN    PTD9        // PTB1、PTB3、PTD9
